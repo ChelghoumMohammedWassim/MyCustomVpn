@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ch\\source\\repos\\MyCustomVpn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32CD8A9C-7F11-40F4-8B31-B2489B378624}|MyCustomVpn\\MyCustomVpn.csproj|c:\\users\\ch\\source\\repos\\mycustomvpn\\mycustomvpn\\mvvm\\viewmodel\\protectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CD8A9C-7F11-40F4-8B31-B2489B378624}|MyCustomVpn\\MyCustomVpn.csproj|solutionrelative:mycustomvpn\\mvvm\\viewmodel\\protectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CD8A9C-7F11-40F4-8B31-B2489B378624}|MyCustomVpn\\MyCustomVpn.csproj|c:\\users\\ch\\source\\repos\\mycustomvpn\\mycustomvpn\\mvvm\\view\\protactionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32CD8A9C-7F11-40F4-8B31-B2489B378624}|MyCustomVpn\\MyCustomVpn.csproj|solutionrelative:mycustomvpn\\mvvm\\view\\protactionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CD8A9C-7F11-40F4-8B31-B2489B378624}|MyCustomVpn\\MyCustomVpn.csproj|c:\\users\\ch\\source\\repos\\mycustomvpn\\mycustomvpn\\themes\\serverlisttheme.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32CD8A9C-7F11-40F4-8B31-B2489B378624}|MyCustomVpn\\MyCustomVpn.csproj|solutionrelative:mycustomvpn\\themes\\serverlisttheme.nord.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerListTheme.Nord.xaml",
+              "DocumentMoniker": "C:\\Users\\ch\\source\\repos\\MyCustomVpn\\MyCustomVpn\\Themes\\ServerListTheme.Nord.xaml",
+              "RelativeDocumentMoniker": "MyCustomVpn\\Themes\\ServerListTheme.Nord.xaml",
+              "ToolTip": "C:\\Users\\ch\\source\\repos\\MyCustomVpn\\MyCustomVpn\\Themes\\ServerListTheme.Nord.xaml",
+              "RelativeToolTip": "MyCustomVpn\\Themes\\ServerListTheme.Nord.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:29:12.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProtactionView.xaml",
+              "DocumentMoniker": "C:\\Users\\ch\\source\\repos\\MyCustomVpn\\MyCustomVpn\\MVVM\\View\\ProtactionView.xaml",
+              "RelativeDocumentMoniker": "MyCustomVpn\\MVVM\\View\\ProtactionView.xaml",
+              "ToolTip": "C:\\Users\\ch\\source\\repos\\MyCustomVpn\\MyCustomVpn\\MVVM\\View\\ProtactionView.xaml",
+              "RelativeToolTip": "MyCustomVpn\\MVVM\\View\\ProtactionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:22:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProtectionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ch\\source\\repos\\MyCustomVpn\\MyCustomVpn\\MVVM\\ViewModel\\ProtectionViewModel.cs",
+              "RelativeDocumentMoniker": "MyCustomVpn\\MVVM\\ViewModel\\ProtectionViewModel.cs",
+              "ToolTip": "C:\\Users\\ch\\source\\repos\\MyCustomVpn\\MyCustomVpn\\MVVM\\ViewModel\\ProtectionViewModel.cs",
+              "RelativeToolTip": "MyCustomVpn\\MVVM\\ViewModel\\ProtectionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:53:51.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
